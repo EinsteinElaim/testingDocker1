@@ -1,0 +1,5 @@
+flask-restx
+flask-sqlalchemy
+pip
+flask-marshmallow
+flask
