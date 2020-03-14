@@ -1,4 +1,4 @@
-from index import db, ma
+from main import db, ma
 
 #creating the agenda table
 class AgendaModel(db.Model):
